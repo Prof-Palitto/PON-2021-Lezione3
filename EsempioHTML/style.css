@@ -1,0 +1,18 @@
+body {
+  background-color: lightskyblue;
+}
+h1 {
+  color: rebeccapurple;
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  border-radius: 50px;
+  float: left;
+  margin-right: 30px;
+}
+
+em {
+  color: red;
+}
